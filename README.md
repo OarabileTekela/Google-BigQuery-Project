@@ -133,6 +133,6 @@ The project serves as part of my Data Analytics portfolio and showcases my abili
 
 ### Author
 
-**Karabelo Tekela**
+**Karabelo Oarabile Tekela**
 Junior Data Analyst | SQL | Google BigQuery | Data Analytics
 
